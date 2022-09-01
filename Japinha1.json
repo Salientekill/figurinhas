@@ -1,12 +1,16 @@
-{
-"link1": "https://telegra.ph/file/98d60f76932571a01ecde.jpg",
-"link2": "https://telegra.ph/file/ae6203b47ba2279340347.jpg",
-"link3": "https://telegra.ph/file/d5ca3d223c75efd0037f3.jpg",
-"link4": "https://telegra.ph/file/d513351ed0b2afc1a63ed.jpg",
-"link5": "https://telegra.ph/file/b1c7332d8ee1b30ebc627.jpg",
-"link6": "https://telegra.ph/file/90373265473e4e72e9d2f.jpg",
-"link7": "https://telegra.ph/file/310a0745fe1dc78a4f333.jpg",
-"link8": "https://telegra.ph/file/b67d700cb264785fd1631.jpg",
-"link9": "https://telegra.ph/file/fa1fad655659af175ecce.jpg",
-"link10": "https://telegra.ph/file/35d15739045ebe008a5ea.jpg"
+[
+  { 
+  "link": [
+ "https://telegra.ph/file/98d60f76932571a01ecde.jpg",
+ "https://telegra.ph/file/ae6203b47ba2279340347.jpg",
+ "https://telegra.ph/file/d5ca3d223c75efd0037f3.jpg",
+ "https://telegra.ph/file/d513351ed0b2afc1a63ed.jpg",
+ "https://telegra.ph/file/b1c7332d8ee1b30ebc627.jpg",
+ "https://telegra.ph/file/90373265473e4e72e9d2f.jpg",
+ "https://telegra.ph/file/310a0745fe1dc78a4f333.jpg",
+ "https://telegra.ph/file/b67d700cb264785fd1631.jpg",
+ "https://telegra.ph/file/fa1fad655659af175ecce.jpg",
+ "https://telegra.ph/file/35d15739045ebe008a5ea.jpg"
+ ]
 }
+]
