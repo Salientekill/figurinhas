@@ -35,7 +35,7 @@ echo ${WHITE}
 read NOMEDAPASTA
 git config --global --add safe.directory /storage/emulated/0/$NOMEDAPASTA
 git config --global user.email "you@example.com"
-git config --global user.name "seunome"
+git config --global user.name "Lotus </>"
 git add .
 git commit -m "First commit"
 git branch -M main
