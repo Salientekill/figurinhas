@@ -1,1 +1,17 @@
-{ "Chave": "Josival124", "Version": [ "V8", "V9" ], "acess": 5}
+[
+    {
+        "Chave": "Josival124",
+        "Version": ["V8", "V9"],
+        "acess": 5
+    },
+    {
+        "Chave": "Maria456",
+        "Version": ["V7", "V8", "V9"],
+        "acess": 10
+    },
+    {
+        "Chave": "Carlos789",
+        "Version": ["V8"],
+        "acess": 3
+    }
+]
